@@ -78,11 +78,6 @@ Key highlights:
 2. Open the project in **Visual Studio**
 3. Build and run the `.asm` file
 
----
-
-## 📷 Preview (Optional)
-
-> Add screenshots or GIFs here for better presentation
 
 ---
 
