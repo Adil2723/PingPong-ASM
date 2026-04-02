@@ -1,54 +1,93 @@
-# 🏓 Ping Pong – COAL Semester Project
-### **x86 Assembly (MASM) with Irvine32**
+# 🏓 Ping Pong – x86 Assembly Game
 
-This project is a fully functional **Ping Pong (Pong-style)** console game written in **x86 Assembly Language** using the **Irvine32 library**.  
-It features real-time controls, ball physics, paddle movement, collision detection, scoring, and difficulty modes.
+### ⚙️ MASM + Irvine32
+
+A fully functional **console-based Ping Pong (Pong-style) game** built using **x86 Assembly Language** with the **Irvine32 library**.
+
+This project demonstrates low-level concepts like **real-time input handling, game loops, collision detection, and memory control**.
+
+---
+
+## 🚀 Overview
+
+A classic Pong-style game implemented from scratch in Assembly, featuring smooth gameplay and responsive controls.
+
+Key highlights:
+- Real-time keyboard input (polling)
+- Manual game loop implementation
+- Low-level screen rendering using cursor positioning
 
 ---
 
 ## 🎮 Features
-- Two-player mode  
-- Real-time paddle control  
-- Ball movement with directional physics  
-- Collision detection with paddles & boundaries  
-- Difficulty levels (Easy, Medium, Hard)  
-- Scoreboard + Speed display  
-- Pause (SPACE), Resume (ENTER), Replay (R), Menu (ESC)
 
----
-
-## 👥 Group Members
-- **Muhammad Adil Saeed – 24K-0705**  
-- **Mujtaba Qureshi – 24K-0535**  
-- **Muhammad Haseem Sammo – 24K-0666**
-
-Instructor: *Miss Seema Hashwani*  
-Course: **COAL – Computer Organization & Assembly Language**
+- 🏓 Two-player mode  
+- 🎯 Real-time paddle control  
+- ⚡ Ball movement with directional physics  
+- 🧱 Collision detection (walls & paddles)  
+- 🎚️ Difficulty levels (Easy / Medium / Hard)  
+- 📊 Scoreboard + Speed display  
+- ⏸️ Pause / Resume system  
+- 🔁 Replay & Menu navigation  
 
 ---
 
 ## 🕹️ Controls
-| Player | Move Up | Move Down |
-|--------|---------|-----------|
-| **Player 1** | `W` | `S` |
-| **Player 2** | `I` | `K` |
 
-### Other Controls
-| Action | Key |
-|--------|-----|
-| Pause Game | `SPACE` |
-| Resume Game | `ENTER` |
-| Replay | `R` |
-| Quit to Menu | `ESC` |
+### 🎯 Players
 
----
+| Player   | Move Up | Move Down |
+|----------|--------|-----------|
+| Player 1 | `W`    | `S`       |
+| Player 2 | `I`    | `K`       |
 
-## 🔧 Technologies Used
-- **MASM (Assembly)**
-- **Irvine32.inc / Irvine32.lib**
-- **Visual Studio**
-- **Real-time keyboard polling**
-- **Cursor movement & console graphics**
+### ⚙️ Game
+
+| Action       | Key     |
+|--------------|--------|
+| Pause        | `SPACE` |
+| Resume       | `ENTER` |
+| Replay       | `R`     |
+| Menu         | `ESC`   |
 
 ---
 
+## 🧠 Concepts Used
+
+- x86 Assembly Programming (MASM)
+- Game Loop Design
+- Keyboard Input Handling (Polling)
+- Collision Detection
+- Console Rendering (Cursor Movement)
+- Register & Memory Management
+
+---
+
+## 🛠️ Tech Stack
+
+- MASM (Microsoft Macro Assembler)
+- Irvine32 Library
+- Visual Studio
+- x86 Architecture
+
+---
+
+## 📌 How to Run
+
+1. Install **MASM** and configure **Irvine32**
+2. Open the project in **Visual Studio**
+3. Build and run the `.asm` file
+
+---
+
+## 📷 Preview (Optional)
+
+> Add screenshots or GIFs here for better presentation
+
+---
+
+## ⭐ Contribute
+
+Feel free to fork this repo, improve it, and submit a pull request!
+
+---
