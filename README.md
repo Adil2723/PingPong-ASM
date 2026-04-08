@@ -1,16 +1,16 @@
 # 🏓 Ping Pong – x86 Assembly Game  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-x86 Assembly-blue" />
-  <img src="https://img.shields.io/badge/Library-Irvine32-green" />
-  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey" />
+  <img src="https://img.shields.io/badge/Language-x86 Assembly-6A5ACD" />
+  <img src="https://img.shields.io/badge/Library-Irvine32-8A2BE2" />
+  <img src="https://img.shields.io/badge/Platform-Windows-4B0082" />
 </p>
 
 <h3 align="center">⚙️ MASM + Irvine32 | Console-Based Pong Game</h3>
 
 ---
 
-## 📖 Overview  
+## 🟣 Overview  
 
 A fully functional **console-based Ping Pong (Pong-style) game** built using **x86 Assembly Language** with the **Irvine32 library**.
 
@@ -18,7 +18,7 @@ This project demonstrates low-level programming concepts including **real-time i
 
 ---
 
-## 🚀 Key Highlights  
+## 🔵 Key Highlights  
 
 - Real-time keyboard input (polling)  
 - Manual game loop implementation  
@@ -27,7 +27,7 @@ This project demonstrates low-level programming concepts including **real-time i
 
 ---
 
-## 🎮 Features  
+## 🟣 Features  
 
 - 🏓 **Two-Player Mode**  
 - 🎯 **Real-Time Paddle Control**  
@@ -40,7 +40,7 @@ This project demonstrates low-level programming concepts including **real-time i
 
 ---
 
-## 🕹️ Controls  
+## 🔵 Controls  
 
 ### 🎯 Players  
 
@@ -62,7 +62,7 @@ This project demonstrates low-level programming concepts including **real-time i
 
 ---
 
-## 🧠 Concepts Used  
+## 🟣 Concepts Used  
 
 - x86 Assembly Programming (MASM)  
 - Game Loop Design  
@@ -73,7 +73,7 @@ This project demonstrates low-level programming concepts including **real-time i
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔵 Tech Stack  
 
 - 🧩 MASM (Microsoft Macro Assembler)  
 - 📚 Irvine32 Library  
@@ -82,7 +82,7 @@ This project demonstrates low-level programming concepts including **real-time i
 
 ---
 
-## ▶️ How to Run  
+## 🟣 How to Run  
 
 ### 🧑‍💻 Visual Studio Setup  
 
@@ -93,4 +93,3 @@ This project demonstrates low-level programming concepts including **real-time i
 5. Build and run  
 
 ---
-
