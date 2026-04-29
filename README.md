@@ -1,6 +1,10 @@
 # 🏓 Ping Pong – x86 Assembly Game  
 
 <p align="center">
+  <img src="pingpong.png" width="700"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Language-x86 Assembly-6A5ACD" />
   <img src="https://img.shields.io/badge/Library-Irvine32-8A2BE2" />
   <img src="https://img.shields.io/badge/Platform-Windows-4B0082" />
@@ -91,5 +95,3 @@ This project demonstrates low-level programming concepts including **real-time i
 3. Open project in **Visual Studio**  
 4. Add `.asm` file to project  
 5. Build and run  
-
----
