@@ -1,7 +1,7 @@
 # 🏓 Ping Pong – x86 Assembly Game  
 
 <p align="center">
-  <img src="pingpong.png" width="700"/>
+  <img src="pingpong.png" width="650"/>
 </p>
 
 <p align="center">
